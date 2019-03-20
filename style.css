@@ -1,0 +1,48 @@
+.lw { font-size: 60px; }
+
+
+
+.grid{
+  display: grid;
+  border-style: solid;
+  border-width: 4px 4px 4px 4px;
+  
+}
+
+.header
+{
+  background: #b51c14;
+  font: 20px Arial, sans-serif;
+  font-family: Lobster, monospace;
+  color: white;
+  
+}
+
+
+.aside
+{
+  background: black;
+  text-align: center;
+  font: 70px Arial, sans-serif;
+  font-family: Lobster, monospace;
+  color: white;
+  border-style: solid;
+  border-width: 4px 4px 4px 4px;
+  
+  
+}
+
+
+
+.footer
+{
+  background: #b51c14;
+  font-family: Lobster, monospace;
+  color: white;
+}
+.main
+{
+  background: #b6b1a9;
+  color:  #165193;
+  font: 20px Arial, sans-serif;
+}
